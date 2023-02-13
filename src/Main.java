@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-	String politicalParty = "";
+	String politicalParty = "x";
 	String menu = "D - Democrat, R - Republican, I - Independent"; // menu to show what the valid options are
 	if(politicalParty.equalsIgnoreCase("D")) // if politicalParty is d or D, the output below will display
         {
